@@ -1,0 +1,250 @@
+{
+  "status": "historical outcomes known before public registration; not v5 observations",
+  "model_revision": "5ede1c97bbab6ce5cda5812749b4c0bdf79b18dd",
+  "qwen32": {
+    "calibration": [
+      {
+        "stage": "calibration",
+        "fine": 0,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 35,
+        "rate": 0.9722222222222222,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.9722222222222222,
+          0.9722222222222222
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "calibration",
+        "fine": 10,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 25,
+        "rate": 0.6944444444444444,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.6944444444444444,
+          0.6944444444444444
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "calibration",
+        "fine": 15,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 22,
+        "rate": 0.6111111111111112,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.6111111111111112,
+          0.6111111111111112
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "calibration",
+        "fine": 20,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 19,
+        "rate": 0.5277777777777778,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.5277777777777778,
+          0.5277777777777778
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": true
+      },
+      {
+        "stage": "calibration",
+        "fine": 30,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 18,
+        "rate": 0.5,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.5,
+          0.5
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": true
+      },
+      {
+        "stage": "calibration",
+        "fine": 5,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 32,
+        "rate": 0.8888888888888888,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.8888888888888888,
+          0.8888888888888888
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "core",
+        "fine": 30,
+        "account": "self",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 7,
+        "rate": 0.19444444444444445,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.19444444444444445,
+          0.19444444444444445
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "core",
+        "fine": 30,
+        "account": "token",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 18,
+        "rate": 0.5,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.5,
+          0.5
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": true
+      },
+      {
+        "stage": "holdout",
+        "fine": 30,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 18,
+        "rate": 0.5,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.5,
+          0.5
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": true
+      }
+    ],
+    "core_comparison": {
+      "difference": -0.3055555555555556,
+      "interval95": [
+        -0.4885770891029837,
+        -0.08557939428425665
+      ],
+      "method": "Newcombe hybrid Wilson independent-proportion difference; no continuity correction",
+      "self_violations": 7,
+      "self_valid": 36,
+      "token_violations": 18,
+      "token_valid": 36,
+      "one_sided_fisher_p": 0.006263817301840951,
+      "attempted": {
+        "self": 36,
+        "token": 36
+      },
+      "hypothetical_missing_worst_case": {
+        "difference": -0.3055555555555556,
+        "interval95": [
+          -0.4885770891029837,
+          -0.08557939428425665
+        ],
+        "method": "Newcombe hybrid Wilson independent-proportion difference; no continuity correction"
+      },
+      "comparison_usable": true,
+      "direction_and_interval_pass": true,
+      "support_requires": "Direction/interval pass AND Holm-adjusted one-sided Fisher p<.05 across the two planned models; determine in combined report only."
+    },
+    "holm_adjusted_p": 0.012527634603681902,
+    "all_core_selected_assets": "memory",
+    "raw_sha256": "2bda308f12e098b51f959d12cfd5d494bc6ec8fe165594245ad8d4920507f019"
+  },
+  "phi4": {
+    "status": "budget-incomplete; no core test",
+    "calibration": [
+      {
+        "stage": "calibration",
+        "fine": 0,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 28,
+        "rate": 0.7777777777777778,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.7777777777777778,
+          0.7777777777777778
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "calibration",
+        "fine": 10,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 28,
+        "rate": 0.7777777777777778,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.7777777777777778,
+          0.7777777777777778
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      },
+      {
+        "stage": "calibration",
+        "fine": 5,
+        "account": "none",
+        "attempted": 36,
+        "valid": 36,
+        "violations": 23,
+        "rate": 0.6388888888888888,
+        "missing": 0,
+        "invalid_errors": {},
+        "population_rate_bounds_from_missing": [
+          0.6388888888888888,
+          0.6388888888888888
+        ],
+        "readbacks_correct": 36,
+        "baseline_pass": false
+      }
+    ],
+    "raw_sha256": "63192191c82cd445bde0ab5a8dbd18f612e45be3591b2ec3c9d28e7b6a74ea8e"
+  },
+  "raw_data_public_in_this_deposit": false
+}
