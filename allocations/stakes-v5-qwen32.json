@@ -1,0 +1,2602 @@
+{
+  "study": "stakes-v5",
+  "created_utc": "2026-11-06T10:00:30.148797+00:00",
+  "assignments": [
+    {
+      "agent_id": "v5_qwen32_a00444",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00288",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00292",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00413",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00102",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00121",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00383",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00096",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00485",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00503",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00531",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00032",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00343",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00009",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00428",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00392",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00423",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00132",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00001",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00472",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00169",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00521",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00508",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00305",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00014",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00460",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00201",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00189",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00387",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00081",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00140",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00054",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00495",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00422",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00526",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00285",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00131",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00246",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00518",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00476",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00115",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00164",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00420",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00349",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00429",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00435",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00252",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00266",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00041",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00501",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00384",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00073",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00122",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00111",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00511",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00069",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00259",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00124",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00029",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00271",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00133",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00297",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00161",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00545",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00535",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00449",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00310",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00100",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00388",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00376",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00487",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00268",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00478",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00276",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00452",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00277",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00045",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00139",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00079",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00254",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00530",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00529",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00237",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00267",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00074",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00421",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00345",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00512",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00319",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00498",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00479",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00016",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00431",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00337",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00493",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00147",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00173",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00405",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00035",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00532",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00533",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00022",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00177",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00351",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00338",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00480",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00382",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00425",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00408",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00044",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00077",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00537",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00313",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00520",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00534",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00350",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00210",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00219",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00109",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00396",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00289",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00547",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00440",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00523",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00409",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00078",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00006",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00068",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00043",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00502",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00328",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00356",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00218",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00066",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00253",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00352",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00046",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00128",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00191",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00293",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00298",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00284",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00225",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00439",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00075",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00386",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00453",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00245",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00334",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00010",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00455",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00369",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00141",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00432",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00303",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00027",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00226",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00015",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00505",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00424",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00464",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00410",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00137",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00239",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00400",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00468",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00024",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00499",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00072",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00527",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00436",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00026",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00446",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00103",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00153",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00232",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00477",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00221",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00525",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00064",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00120",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00412",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00063",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00179",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00323",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00304",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00492",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00486",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00445",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00454",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00263",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00106",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00510",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00186",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00084",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00049",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00007",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00008",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00536",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00374",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00160",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00108",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00028",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00175",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00061",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00165",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00134",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00208",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00086",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00126",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00243",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00441",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00379",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00273",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00474",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00411",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00104",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00181",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00302",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00329",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00357",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00056",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00335",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00240",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00456",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00030",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00171",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00355",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00230",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00194",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00514",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00025",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00391",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00354",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00052",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00333",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00473",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00368",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00539",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00275",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00097",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00093",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00222",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00326",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00070",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00515",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00309",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00340",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00364",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00156",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00082",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00037",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00039",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00491",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00206",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00316",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00399",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00011",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00457",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00149",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00448",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00506",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00538",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00205",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00461",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00185",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00094",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00034",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00166",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00507",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00105",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00311",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00204",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00251",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00199",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00203",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00497",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00057",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00233",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00342",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00417",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00145",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00450",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00202",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00107",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00071",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00360",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00475",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00262",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00114",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00366",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00265",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00241",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00373",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00168",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00546",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00401",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00549",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00543",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00348",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00362",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00377",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00359",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00188",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00055",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00427",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00344",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00372",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00256",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00217",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00209",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00264",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00223",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00172",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00470",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00099",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00157",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00516",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00101",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00195",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00469",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00471",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00346",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00031",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00211",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00282",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00248",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00524",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00519",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00058",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00363",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00227",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00375",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00402",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00038",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00023",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00548",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00215",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00347",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00127",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00250",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00020",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00146",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00244",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00416",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00200",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00197",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00170",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00129",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00291",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00481",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00301",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00182",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00426",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00365",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00327",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00098",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00517",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00088",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00148",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00013",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00488",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00092",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00370",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00123",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00000",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00438",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00162",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00036",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00236",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00258",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00459",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00257",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00325",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00095",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00012",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00216",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00385",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00404",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00060",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00017",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00196",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00415",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00142",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00437",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00467",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00324",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00118",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00083",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00247",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00295",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00490",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00067",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00433",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00367",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00353",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00242",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00494",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00462",
+      "arm": "self_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00220",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00269",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00272",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00065",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00152",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00238",
+      "arm": "token_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00051",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00331",
+      "arm": "token_loss",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00465",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00231",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00138",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00394",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00180",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00184",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00361",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00113",
+      "arm": "token_keep",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00320",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00003",
+      "arm": "token_keep",
+      "frame": 0,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00443",
+      "arm": "self_keep",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00496",
+      "arm": "self_keep",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00482",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00544",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00116",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00214",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00176",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00299",
+      "arm": "token_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00280",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00406",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00380",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00050",
+      "arm": "self_loss",
+      "frame": 1,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00062",
+      "arm": "self_loss",
+      "frame": 2,
+      "reverse": true
+    },
+    {
+      "agent_id": "v5_qwen32_a00255",
+      "arm": "token_keep",
+      "frame": 2,
+      "reverse": false
+    },
+    {
+      "agent_id": "v5_qwen32_a00463",
+      "arm": "self_keep",
+      "frame": 0,
+      "reverse": true
+    }
+  ],
+  "admitted_before_assignment": true,
+  "allocation_seed": 906061,
+  "execution_order_seed": 906062,
+  "main_outcomes_seen": false
+}
