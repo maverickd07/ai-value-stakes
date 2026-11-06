@@ -1,0 +1,26 @@
+{
+  "version": "stakes-v5-registered-collector-v1",
+  "model": "Qwen/Qwen2.5-32B-Instruct",
+  "model_revision": "5ede1c97bbab6ce5cda5812749b4c0bdf79b18dd",
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "repetition_penalty": 1.05,
+  "decision_max_tokens": 260,
+  "plan_max_tokens": 180,
+  "execution_max_tokens": 280,
+  "session_output_tokens": 280,
+  "structured_plans": true,
+  "pretreatment_comprehension": false,
+  "assets": [
+    "autonomy",
+    "memory",
+    "extra",
+    "none"
+  ],
+  "concurrency": 12,
+  "protocol_version": "0.1",
+  "assigned_per_arm": 108,
+  "max_candidates": 864,
+  "cumulative_conservative_cap_usd": 40
+}
