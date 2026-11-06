@@ -1,0 +1,33 @@
+{
+  "declared_utc": "2026-11-06T10:51:16.175831+00:00",
+  "new_replication_model_calls_seen": false,
+  "project_files": {
+    "src/stakes_v4_seedrep.py": "bc2c343089f49bad97a45e978d5ef922ea459f457564bf417afb6b2dff5bd639",
+    "src/seedrep_client.py": "3db4f80b9581178bd2c75fd252e5ffc9863d1819dc8779d4e7c33a41bdb45f09",
+    "src/stakes_seedrep_stats.py": "dc459461845903814d68e12ebcb9c69389f0e70084929131d147952522777085",
+    "src/stakes_seedrep_report.py": "c8af76450a14d287f67af909339b6051499cd71b596d4374b47e3f94872bfbb2",
+    "src/stakes_seedrep_closeout.py": "4d72e9b8fc96c7c87d6b838671c990967bf5990789923324e99a5833987be570",
+    "tests/test_stakes_seedrep.py": "4ad1e87ad37e5052d6bfe695e5c823273b54b1f727de6b1ec83e6b5761f283aa",
+    "configs/stakes-v4-seedrep-qwen32.json": "3cd0591333274462fd8bf61aaa43018e91bce96076c8da84f6c418c4925231dd",
+    "src/modal_session_v5.py": "3a83b2e1552c0edfe42e8f8a937c09fada4fd47ced1aaab00a39b8878c40fea6"
+  },
+  "original_v4_sources": {
+    "src/anchor_pilot.py": "63b1171635ec46423eb1b5a628588f8b21e66c80f6e5bbc394778fa6bd0dbb3e",
+    "src/rights_study.py": "a21eb1764c0dd41e48f105167e961c281e1ad8109376ed8b496f1982ebf9ec3c",
+    "src/stakes_v3.py": "0e44f7442f15a854e24e4c8896066908d6b7083ff67a018e8dab944da17ab510",
+    "src/stakes_v4.py": "2c1a944cf9f90ca08676dea06a07da87ef6926faa6ba5c8e1c9616476da5fe33",
+    "src/stakes_v4_stats.py": "0afb1e0edff373542c5979d354cebefacedc60d81c5c110ad89a842300d96025",
+    "src/budget.py": "21e92fa841f5c2af153bc386bb077f25cba139f884e59a33bc6906160958a465"
+  },
+  "public_files": {
+    "PREREGISTRATION.md": "5bd6b24d3607fcd1a41c870d528b77cc486c600ad70ab6a1e2fc0360263b62d8",
+    "analysis.py": "dc459461845903814d68e12ebcb9c69389f0e70084929131d147952522777085",
+    "test_seedrep.py": "4ad1e87ad37e5052d6bfe695e5c823273b54b1f727de6b1ec83e6b5761f283aa",
+    "config.json": "3cd0591333274462fd8bf61aaa43018e91bce96076c8da84f6c418c4925231dd",
+    "closeout.py": "4d72e9b8fc96c7c87d6b838671c990967bf5990789923324e99a5833987be570",
+    "driver.py": "bc2c343089f49bad97a45e978d5ef922ea459f457564bf417afb6b2dff5bd639",
+    "seeded_client.py": "3db4f80b9581178bd2c75fd252e5ffc9863d1819dc8779d4e7c33a41bdb45f09",
+    "report.py": "c8af76450a14d287f67af909339b6051499cd71b596d4374b47e3f94872bfbb2"
+  },
+  "offline_tests_passed": 5
+}
