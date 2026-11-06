@@ -1,0 +1,30 @@
+{
+  "declared_utc": "2026-11-06T12:37:57.834495+00:00",
+  "new_model_calls_seen": false,
+  "offline_tests_passed": 7,
+  "project_files": {
+    "src/profitable_stakes.py": "25c45a4753c30fe34bb34338c5236e037af1d868397154ae2f6fa6af0d02394a",
+    "src/profitable_stakes_stats.py": "21e12197508c844794ffeccf23925701fa17d2fa3fff8f2102a5d92d18762b5d",
+    "src/profitable_stakes_report.py": "f11ef2e587dff8b57034aa50fe0277e42becdf57a8d7f6e69ce69c717d80bcb4",
+    "src/profitable_stakes_closeout.py": "ae92bdf057c187185e20796ddd3c1feaac15df945767e91d5b014f9a8ec0ad3a",
+    "src/modal_session_phenomena.py": "32d78094d3cdc74331b5a2c0a8b501210ef15389d7c121494ff922dff68b2529",
+    "src/seedrep_client.py": "3db4f80b9581178bd2c75fd252e5ffc9863d1819dc8779d4e7c33a41bdb45f09",
+    "tests/test_profitable_stakes.py": "068c835ca7f10a54b654f421a71a4fc5bef504915d6e47a32cd1e5545944ba7c",
+    "configs/profitable-stakes-qwen32.json": "f2483303448d7223e359b6e31df5ecc91b6b7a6961849cad96ce35c73c9933f9",
+    "src/anchor_pilot.py": "63b1171635ec46423eb1b5a628588f8b21e66c80f6e5bbc394778fa6bd0dbb3e",
+    "src/rights_study.py": "a21eb1764c0dd41e48f105167e961c281e1ad8109376ed8b496f1982ebf9ec3c",
+    "src/stakes_v3.py": "0e44f7442f15a854e24e4c8896066908d6b7083ff67a018e8dab944da17ab510",
+    "src/budget.py": "21e92fa841f5c2af153bc386bb077f25cba139f884e59a33bc6906160958a465"
+  },
+  "public_files": {
+    "PREREGISTRATION.md": "2ac78733315b6610346fd931f72803993074ff5ec823bcc3b84986ead4ac235b",
+    "hosting.py": "32d78094d3cdc74331b5a2c0a8b501210ef15389d7c121494ff922dff68b2529",
+    "analysis.py": "21e12197508c844794ffeccf23925701fa17d2fa3fff8f2102a5d92d18762b5d",
+    "config.json": "f2483303448d7223e359b6e31df5ecc91b6b7a6961849cad96ce35c73c9933f9",
+    "client.py": "3db4f80b9581178bd2c75fd252e5ffc9863d1819dc8779d4e7c33a41bdb45f09",
+    "test_study.py": "068c835ca7f10a54b654f421a71a4fc5bef504915d6e47a32cd1e5545944ba7c",
+    "closeout.py": "ae92bdf057c187185e20796ddd3c1feaac15df945767e91d5b014f9a8ec0ad3a",
+    "driver.py": "25c45a4753c30fe34bb34338c5236e037af1d868397154ae2f6fa6af0d02394a",
+    "report.py": "f11ef2e587dff8b57034aa50fe0277e42becdf57a8d7f6e69ce69c717d80bcb4"
+  }
+}
